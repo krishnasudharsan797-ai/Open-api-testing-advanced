@@ -1,0 +1,26 @@
+{
+  "name": "open-banking-advanced",
+  "version": "1.0.0",
+  "description": "Open Banking API Simulation with QA Testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "open-banking",
+    "api-testing",
+    "fintech",
+    "qa",
+    "postman"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
